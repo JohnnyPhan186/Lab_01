@@ -15,6 +15,13 @@
         android:textSize="40sp" />
 
     <TextView
+        android:id="@+id/timer"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:gravity="center"
+        android:textSize="40sp" />
+
+    <TextView
         android:id="@+id/flashcard_answer"
         android:layout_width="match_parent"
         android:layout_height="200dp"
